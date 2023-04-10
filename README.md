@@ -8,6 +8,8 @@ A Multi-task Cascaded Convolutional Networks (MTCNN) é um algoritmo de detecç�
 
 ## Código
 
+![2023-04-10-20-05-10](https://user-images.githubusercontent.com/113546603/231015819-d9247048-6585-4b85-bec6-a043919f135e.gif)
+
 ### Código colab(.ipynb)
 https://colab.research.google.com/drive/1yFYLluGYOIub-zmPWsaot7OeBw89Bn5r?usp=sharing
 
