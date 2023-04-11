@@ -49,11 +49,11 @@ cv2.destroyAllWindows()
 
 
 ## Referências
-https://medium.com/@lucas.kido19/detecção-facial-com-mtcnn-281c3707fe52
+Kido, Lucas. Detecção Facial com MTCNN. Medium, 2020. Disponível em: <https://medium.com/@lucas.kido19/detecção-facial-com-mtcnn-281c3707fe52>. Acesso em: 06 de abril de 2023.
 
-https://towardsdatascience.com/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49
+Güse, Justin. Face Detection using MTCNN — a guide for face extraction with a focus on speed. Towards Data Science, 2020. Disponível em: <https://towardsdatascience.com/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49>. Acesso em: 06 de abril de 2023.
 
-https://www.lucaamore.com/?p=1143
+Amore, Luca. Face Detection e Face Recognition in Python – Test su Matrix Reloaded e Game of Thrones. Lucaamore, 2021. Disponível em: <https://www.lucaamore.com/?p=1143>. Acesso em: 10 de abril de 2023.
 
-https://pypi.org/project/mtcnn/
+Zhang, K., Zhang, Z., Li, Z., and Qiao, Y. (2016). Joint face detection and alignment using multitask cascaded convolutional networks. IEEE Signal Processing Letters, 23(10):1499–1503.
 
